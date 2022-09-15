@@ -1,0 +1,16 @@
+.myClass{
+    background-color: #8e04aa;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  border-radius: 12px;
+}
+.pinku{
+  font-size: bold;
+  color:blue;
+}
