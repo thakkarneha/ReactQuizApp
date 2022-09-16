@@ -145,7 +145,7 @@ const nextQue=(isCorrect)=>{
 <div className="container mt-3" >
 <div className="card">
   <div className="card-body">
-  {showScore?(<div>You have Scored {score} Out of {questionArray.length}</div>):(
+  {showScore?(<div className="pinku">You have Scored {score} Out of {questionArray.length}</div>):(
 <div>
   <span>Question {currentQue+1}</span>/{questionArray.length}
     <h5 className="card-title">{questionArray[currentQue].question}</h5>
