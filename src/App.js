@@ -139,7 +139,7 @@ const nextQue=(isCorrect)=>{
 }
   return (
     <>
-    <h1 className="Container text-center">React JS Basic Quiz</h1>
+    <h1 className="Container text-center">React JS Quiz</h1>
   
    
 <div className="container mt-3" >
